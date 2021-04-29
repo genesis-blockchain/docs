@@ -25,4 +25,4 @@ Genesis blockhain documentation and code samples.
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkwpioZ0adCxoJkhcXVcNE7HOia3AvekIuPg&usqp=CAU)
 
 
-![](https://www.dropbox.com/s/pc495m1g9ckmbco/api.png?dl=1)
+![](https://github.com/genesis-blockchain/docs/blob/main/api/api.png?raw=true)
