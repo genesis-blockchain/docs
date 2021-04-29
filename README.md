@@ -12,7 +12,7 @@ Genesis blockhain documentation and code samples.
 - [Мониторинг и контроль системы](https://www.dropbox.com/scl/fi/tgt3f258i0f56850eef1p/.docx?dl=0&rlkey=vog5y2egpxfq289ifvkmhageo "Мониторинг и контроль системы")
 - [Мультиподпись. Для чего требуется, как реализовано](https://www.dropbox.com/scl/fi/oxgihplpgjhbh7j1r0luf/Multisig.docx?dl=0&rlkey=cflt3ml2iu7xchampuqzlcyz2 "Мультиподпись. Для чего требуется, как реализовано")
 - [Реферальная программа](https://www.dropbox.com/scl/fi/znuaiwnwztw0kmdg8ldr8/.docx?dl=0&rlkey=ypy56bd7fvlvyfr75kuld6ow7 "Реферальная программа")
--[ Биржа. Виды торгов. Возможности. Алгоритмы](https://www.dropbox.com/scl/fi/b0b4utvzop29b3pcjt9yk/.docx?dl=0&rlkey=l9dn2f2dy9jwz99nvasb3ytro " Биржа. Виды торгов. Возможности. Алгоритмы")
+- [ Биржа. Виды торгов. Возможности. Алгоритмы](https://www.dropbox.com/scl/fi/b0b4utvzop29b3pcjt9yk/.docx?dl=0&rlkey=l9dn2f2dy9jwz99nvasb3ytro " Биржа. Виды торгов. Возможности. Алгоритмы")
 - [Транзакции](https://www.dropbox.com/scl/fi/42bksqnkae2zk50lxfkhn/..docx?dl=0&rlkey=uqc4v7uzbiqndt7an66ebpnv9 "Транзакции")
 - [ Консольный кошелек](https://www.dropbox.com/scl/fi/gikjzqasamm19git6afyy/CLI-wallet..docx?dl=0&rlkey=bzgvi5xg4z84bpg6ni60a5uk4 " Консольный кошелек")
 - [Сеть. запуск публичной, приватной ноды, валидатора.](https://www.dropbox.com/scl/fi/d62egv2ngrg55gm6ipvvt/Nodes..docx?dl=0&rlkey=gxv9914jeuolmltfj0ix06qhg "Сеть. запуск публичной, приватной ноды, валидатора.")
